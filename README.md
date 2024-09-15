@@ -25,17 +25,18 @@
 
 ## 🌟 Key Projects
 
-### 📊 Power BI Sales Dashboard
-An interactive sales dashboard designed in Power BI to analyze revenue, sales performance, and customer behavior. The dashboard uses various filters, drill-down capabilities, and KPIs.
-
-![Power BI Dashboard](https://github.com/username/project-images/powerbi_dashboard.png)
+### 📊 Power BI Project on COVID-19 Daily Cases
+A detailed Power BI report analyzing daily COVID-19 cases globally. The project includes visualizations of case trends, comparisons across countries, and interactive elements to explore the data over time.
+<br>
+<img src="https://github.com/suhail57/InternCareer/blob/b52473b8c13871781d5f4b3898907009cc32495d/Task%202%20Power%20BI%20Dashboard%20Creation%20-%20COVID-19%20Daily%20Cases/Dashboard.PNG" width="500"/>
 
 ---
 
-### 🌍 Tableau Global Market Analysis
-A comprehensive analysis of global market trends using Tableau, with a focus on market share, regional performance, and sales growth.
+### 🧑‍💼 HR Analytics Dashboard
+A comprehensive HR Analytics Dashboard was created in Tableau to analyze employee metrics, performance, and workforce trends. The dashboard includes interactive elements to explore various HR KPIs and employee data insights.
 
-![Tableau Market Analysis](https://github.com/username/project-images/tableau_market_analysis.png)
+<img src="https://github.com/suhail57/Microsft-PowerBI/blob/38b657ade6aab69b77e2affb3381019923ceb95c/HR%20Analytics%20Dashboard/Dashboard.PNG" width="500"/>
+
 
 
 ---
