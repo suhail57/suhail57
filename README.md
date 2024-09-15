@@ -41,18 +41,15 @@ A comprehensive analysis of global market trends using Tableau, with a focus on 
 ---
 
 ### Languages and Tools:
-<img src="https://images.freeimages.com/fic/images/icons/2795/office_2013_hd/2000/excel.png" alt="Excel" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="50" height="50"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://images.freeimages.com/fic/images/icons/2795/office_2013_hd/2000/excel.png" alt="Excel" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="65" height="50"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="50" height="50"/> <img src="https://cdn-icons-png.freepik.com/512/4110/4110554.png" alt="Pandas" width="50" height="50"/> <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" alt="Power Query" width="65" height="50"/>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=github,git,python,anaconda&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,python,anaconda,gcp,gmail,ai,matlab&perline=6)](https://skillicons.dev)
 <br>
+
 ---
 
 ## 📈 GitHub Stats
 ![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhail57&show_icons=true&theme=radical)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhail57&theme=dark)
 
 ---
 
