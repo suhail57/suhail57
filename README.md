@@ -29,9 +29,7 @@
 A detailed Power BI report analyzing daily COVID-19 cases globally. The project includes visualizations of case trends, comparisons across countries, and interactive elements to explore the data over time.
 <br>
 <img src="https://github.com/suhail57/InternCareer/blob/b52473b8c13871781d5f4b3898907009cc32495d/Task%202%20Power%20BI%20Dashboard%20Creation%20-%20COVID-19%20Daily%20Cases/Dashboard.PNG" width="500"/>
-
----
-
+<br>
 ### 🧑‍💼 HR Analytics Dashboard
 A comprehensive HR Analytics Dashboard was created in Tableau to analyze employee metrics, performance, and workforce trends. The dashboard includes interactive elements to explore various HR KPIs and employee data insights.
 
