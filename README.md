@@ -21,21 +21,6 @@
 - **Python** - Experience with data analysis libraries like Pandas, NumPy, Matplotlib, and more.
 - **Data Visualization** - Passionate about transforming raw data into actionable insights.
 
----
-
-## 🌟 Key Projects
-
-### 📊 Power BI Project on COVID-19 Daily Cases
-A detailed Power BI report analyzing daily COVID-19 cases globally. The project includes visualizations of case trends, comparisons across countries, and interactive elements to explore the data over time.
-<br>
-<img src="https://github.com/suhail57/InternCareer/blob/b52473b8c13871781d5f4b3898907009cc32495d/Task%202%20Power%20BI%20Dashboard%20Creation%20-%20COVID-19%20Daily%20Cases/Dashboard.PNG" width="500"/>
-<br>
-### 🧑‍💼 HR Analytics Dashboard
-A comprehensive HR Analytics Dashboard was created in Tableau to analyze employee metrics, performance, and workforce trends. The dashboard includes interactive elements to explore various HR KPIs and employee data insights.
-
-<img src="https://github.com/suhail57/Microsft-PowerBI/blob/38b657ade6aab69b77e2affb3381019923ceb95c/HR%20Analytics%20Dashboard/Dashboard.PNG" width="500"/>
-
-
 
 ---
 
